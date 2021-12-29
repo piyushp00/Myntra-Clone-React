@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Myntra-Clone-React/static/css/main.c8efc623.chunk.css",
+    "main.js": "/Myntra-Clone-React/static/js/main.fc95dc86.chunk.js",
+    "main.js.map": "/Myntra-Clone-React/static/js/main.fc95dc86.chunk.js.map",
+    "runtime-main.js": "/Myntra-Clone-React/static/js/runtime-main.5ac92dd4.js",
+    "runtime-main.js.map": "/Myntra-Clone-React/static/js/runtime-main.5ac92dd4.js.map",
+    "static/css/2.80937712.chunk.css": "/Myntra-Clone-React/static/css/2.80937712.chunk.css",
+    "static/js/2.ed451f83.chunk.js": "/Myntra-Clone-React/static/js/2.ed451f83.chunk.js",
+    "static/js/2.ed451f83.chunk.js.map": "/Myntra-Clone-React/static/js/2.ed451f83.chunk.js.map",
+    "index.html": "/Myntra-Clone-React/index.html",
+    "static/css/2.80937712.chunk.css.map": "/Myntra-Clone-React/static/css/2.80937712.chunk.css.map",
+    "static/css/main.c8efc623.chunk.css.map": "/Myntra-Clone-React/static/css/main.c8efc623.chunk.css.map",
+    "static/js/2.ed451f83.chunk.js.LICENSE.txt": "/Myntra-Clone-React/static/js/2.ed451f83.chunk.js.LICENSE.txt",
+    "static/media/Down-arrow.aa154a3b.svg": "/Myntra-Clone-React/static/media/Down-arrow.aa154a3b.svg",
+    "static/media/bag-icon.90b85622.svg": "/Myntra-Clone-React/static/media/bag-icon.90b85622.svg",
+    "static/media/heart-icon-filled.47d72100.svg": "/Myntra-Clone-React/static/media/heart-icon-filled.47d72100.svg",
+    "static/media/heart-icon.a2d77e00.svg": "/Myntra-Clone-React/static/media/heart-icon.a2d77e00.svg",
+    "static/media/profile-icon.82ce5c07.svg": "/Myntra-Clone-React/static/media/profile-icon.82ce5c07.svg",
+    "static/media/search-icon.129397a5.svg": "/Myntra-Clone-React/static/media/search-icon.129397a5.svg",
+    "static/media/star-icon.2177e1a6.svg": "/Myntra-Clone-React/static/media/star-icon.2177e1a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac92dd4.js",
+    "static/css/2.80937712.chunk.css",
+    "static/js/2.ed451f83.chunk.js",
+    "static/css/main.c8efc623.chunk.css",
+    "static/js/main.fc95dc86.chunk.js"
+  ]
+}
